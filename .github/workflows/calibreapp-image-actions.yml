@@ -12,10 +12,7 @@ on:
     branches:
       - "**"
     paths:
-      - "assets/**.jpg"
-      - "assets/**.jpeg"
-      - "assets/**.png"
-      - "assets/**.webp"
+      - "**"
 jobs:
   build:
     # Only run on Pull Requests within the same repository, and not from forks.
