@@ -1,6 +1,6 @@
 # codedamn - Hulu clone Landing Page
 
-![Design for the project](./assets/desktop-design-non-fs.jpg)
+![Design for the project](https://raw.githubusercontent.com/codedamn-projects/hulu-clone-project/main/assets/desktop-design-non-fs.jpg)
 
 ## Hello developer!
 
